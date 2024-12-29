@@ -1,7 +1,7 @@
 public class mypd{
     public static void main(string[]args){
         System.out.println("hello priyaa");
-        System.out.println("tuzya aai chi gand");
+        System.out.println(" ");
     }
 
 }
